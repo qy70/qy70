@@ -1,6 +1,6 @@
 # Hi, I'm Qianyu (Jiahua Wang)
 
-**AI Product & Systems Engineer** · Hangzhou, China (`UTC+8 · SGT-Aligned / Async Remote`)
+**AI Product & Systems Engineer** · Hong Kong (`UTC+8 · SGT-Aligned / Remote or On-site`)
 
 [![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-ssrqy.cn%2Fwork-4f46e5?style=flat-square)](https://ssrqy.cn/work/)
 [![Digital Twin](https://img.shields.io/badge/Interactive_AI_Twin-ssrqy.cn-7c3aed?style=flat-square)](https://ssrqy.cn/)
@@ -28,6 +28,9 @@ I design and ship **Compound AI systems** built around a clean separation of aut
 | **AI Ops Workbench** | `2026 · Production v1.5.0` *(Private Repo · Electron + SQLite v22)* | Hard LLM/tool decoupling with integer-cent BigInt commission ledger, DeepSeek-Harness 3-role memory isolation, read-only HIL drafting, 3-way Lark (Feishu) sync, **374 regression tests** | [Architecture](https://ssrqy.cn/work/#workbench) |
 | **Qianyu QQ Agent** | `2026 · Open Source v0.3.14` *(Python + pywebview + C#)* | Stateless DeepSeek-compatible API wrapper with per-account externalized memory, local doc search, and cleanly decoupled open-source distribution | [Repository](https://github.com/qy70/qianyu) |
 | **Agent Context Governance** | `2026 · Open Source Starter` *(Markdown + Node.js ESM)* | Reusable `AGENTS.md` multi-agent protocol, 3-file persistent topic KB template, and zero-dependency workspace hygiene checker | [Repository](https://github.com/qy70/agent-context-governance) |
+| **Directory-First Retrieval** | `2026 · Open Source Reference` *(Node.js ESM · zero deps · 20 tests)* | Lightweight catalog first, model selects groups, deterministic budgeted fetch second; resident layer and `70%` budget cap with truncation reports | [Repository](https://github.com/qy70/directory-first-retrieval) |
+| **Integer-Cent Ledger** | `2026 · Open Source Library` *(Node.js ESM · BigInt · 32 tests)* | Integer-cent tiered commissions, policy snapshots, cross-month recalculation, clawback debt entries and a SHA-256 hash-chained audit trail | [Repository](https://github.com/qy70/integer-cent-ledger) |
+| **AI Portfolio Source** | `2026 · Open Source Site` *(Vanilla JS · EN/ZH · light/dark)* | Zero-dependency static portfolio with native SVG architecture diagrams and lightbox gallery | [Repository](https://github.com/qy70/ssrqy-work-portfolio) · [Live](https://ssrqy.cn/work/) |
 
 ---
 
